@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT LOGO DE USI @DEVZEBS-->
 <br />
 <div align="center">
    <a href="https://github.com/NGcodeX">
@@ -16,17 +16,17 @@
     <a href="#"><strong>Explorer le Site USJ »</strong></a>
     <br />
     <br />
-    <a href="#">Membre de NGcodeX: 2</a>
+    <a href="#">A Propos </a>
     ·
-    <a href="https://chat.whatsapp.com/JpNG0zo1eNy5AAwZEjeXcK">Group Whatsapp de NGcodeX</a>
+    <a href="https://institutsaintjean.org/cycle-ingenieur/">Formation</a>
     ·
-    <a href="#">Site de NGcodeX(en cours de dev)</a>
+    <a href="https://institutsaintjean.org/stage-et-employabilite/">Stage et employabilité</a>
   </p>
 </div>
 
 
 
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS @DEVZEBS USJ-->
 <details>
   <summary>Table de Projets</summary>
   <ol>
