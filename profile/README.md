@@ -63,7 +63,7 @@ Nous espérons que ce guide rendra le processus de contribution clair et répond
 </details>
 
 ### Langue
-
+<details></details>
 Veuillez, tout en contribuant ou en interagissant de quelque manière que ce soit dans les projets USJ,  l'**anglais** ou le **Francais**.
 
 #### For native English speakers
@@ -88,7 +88,7 @@ Try to encourage newcomers to USJ github to voice their opinions and get them in
 Utiliser les outils de développement qui vous convient et fait nous un `pull-request- USJ`.
 
 ## S'engager
-
+<details></details>
 Un message de validation peut être composé d'un **en-tête**, d'un **corps** et d'un **pied de page**. L'en-tête est la seule partie obligatoire et se compose d'un type et d'un sujet. Le corps est utilisé pour décrire complètement le changement. Le pied de page est l'endroit où référencer tous les problèmes ou demandes d'extraction liés au commit. Cela dit, nous terminons avec un modèle comme celui-ci :
 
 ```
@@ -100,8 +100,7 @@ Un message de validation peut être composé d'un **en-tête**, d'un **corps** e
 ```
 
 Pour vous assurer qu'un commit est valide et facile à lire, vérifiez les points suivants :
-
-- L'en-tête (première ligne) est la seule partie obligatoire du message de validation ;
+<details>- L'en-tête (première ligne) est la seule partie obligatoire du message de validation ;
 - Le corps et le pied de page sont facultatifs mais leur utilisation est fortement encouragée ;
 - L'en-tête doit contenir :
   - Un type avec votre emoji respectif :
@@ -113,9 +112,10 @@ Pour vous assurer qu'un commit est valide et facile à lire, vérifiez les point
       - ✨ **feat** : Une nouvelle fonctionnalité ;
       - 🐛 **correction** : une correction de bug ;
       - 🤖 **test** : Un changement lié au test.
-      -    **peluche** : Un changement lié au test.
+      -    **peluche** : Un changement lié au test.</details>
+
   - A subject:
-    - Must be lowercase;
+  <details>- Must be lowercase;
     - Must be limited to 50 characters or less;
     - Must omit any trailing punctuation;
     - Avoid camel case ("my awesome method" not "myAwesomeMethod").
@@ -127,10 +127,10 @@ Pour vous assurer qu'un commit est valide et facile à lire, vérifiez les point
   - Must have a leading blank line;
   - Each line must be limited to 72 characters or less;
   - If needed, reference to issues and pull requests must be made here in the last line.
-
+</details>
+    
 You also should follow these general guidelines when committing:
-
-- Use the present tense ("add feature" not "added feature");
+ <details>- Use the present tense ("add feature" not "added feature");
 - Use the imperative mood ("move cursor to..." not "moves cursor to...");
 - Try to answer the following questions:
   - Why is this change necessary?
@@ -150,24 +150,25 @@ will show it as one extremely long unwrapped line. Fortunately, most
 text editors are capable of automating this.
 
 Issues and pull request can be referenced on the footer: #3 #12
-```
+```</details>
+
 
 ### Why all these rules?
-
-We try to enforce these rules for the following reasons:
+<details>We try to enforce these rules for the following reasons:
 
 - Communicating in a better way the nature of changes;
 - Triggering build and publish processes;
 - Automatically determining a semantic version bump (based on the types of commits);
 - Making it easier for people to contribute, by allowing them to explore a more structured commit history.
+</details>
 
 ## Submitting a pull request
-
-Before submitting a pull request, please make sure the following is done:
+<details>Before submitting a pull request, please make sure the following is done:
 
 - [Fork](https://help.github.com/en/articles/fork-a-repo) the repository and create your branch from `main`.
   - Example: `feat/my-awesome-feature` or `fix/annoying-bug`;
 - Run `yarn` in the repository root;
 - Ensure the test suite passes;
-- Ensure your commit is validated;
+- Ensure your commit is validated;</details>
+
 
