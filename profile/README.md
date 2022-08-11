@@ -63,14 +63,15 @@ Nous espérons que ce guide rendra le processus de contribution clair et répond
 </details>
 
 ### Langue
-<details></details>
-Veuillez, tout en contribuant ou en interagissant de quelque manière que ce soit dans les projets USJ,  l'**anglais** ou le **Francais**.
+<details>Veuillez, tout en contribuant ou en interagissant de quelque manière que ce soit dans les projets USJ,  l'**anglais** ou le **Francais**.
 
 #### For native English speakers
 
 For English speakers, try to use simple words and phrases to allow others to understand when commenting on code, on Gists or on issues.
 
 Try to encourage newcomers to USJ github to voice their opinions and get them into the code hotspot😎.
+</details>
+
 
 
 ## Soumettre une issues
@@ -88,8 +89,7 @@ Try to encourage newcomers to USJ github to voice their opinions and get them in
 Utiliser les outils de développement qui vous convient et fait nous un `pull-request- USJ`.
 
 ## S'engager
-<details></details>
-Un message de validation peut être composé d'un **en-tête**, d'un **corps** et d'un **pied de page**. L'en-tête est la seule partie obligatoire et se compose d'un type et d'un sujet. Le corps est utilisé pour décrire complètement le changement. Le pied de page est l'endroit où référencer tous les problèmes ou demandes d'extraction liés au commit. Cela dit, nous terminons avec un modèle comme celui-ci :
+<details>Un message de validation peut être composé d'un **en-tête**, d'un **corps** et d'un **pied de page**. L'en-tête est la seule partie obligatoire et se compose d'un type et d'un sujet. Le corps est utilisé pour décrire complètement le changement. Le pied de page est l'endroit où référencer tous les problèmes ou demandes d'extraction liés au commit. Cela dit, nous terminons avec un modèle comme celui-ci :
 
 ```
 <emoji> <type>: <subject>
@@ -97,7 +97,8 @@ Un message de validation peut être composé d'un **en-tête**, d'un **corps** e
 [optional body]
 
 [optional footer]
-```
+```</details>
+
 
 Pour vous assurer qu'un commit est valide et facile à lire, vérifiez les points suivants :
 <details>- L'en-tête (première ligne) est la seule partie obligatoire du message de validation ;
