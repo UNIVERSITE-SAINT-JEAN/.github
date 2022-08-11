@@ -31,7 +31,7 @@
   <summary>Table de Projets</summary>
   <ol>
     <li>
-      <a href="#about-the-project">À propos du projet</a>
+      <a href="#about-the-project">Commencer</a>
       <ul>
         <li><a href="#built-with"></a></li>
       </ul>
