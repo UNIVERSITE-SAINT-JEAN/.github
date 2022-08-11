@@ -1,7 +1,5 @@
 <a name="readme-top"></a>
 
-<img src="https://github.com/UNIVERSITE-SAINT-JEAN/.github/blob/master/profile/Github%20Saint%20Jean.png?raw=true">
-
 <!-- PROJECT LOGO DE USI @DEVZEBS-->
 <br />
 <div align="center">
@@ -26,7 +24,7 @@
   </p>
 </div>
 
-
+<img src="https://github.com/UNIVERSITE-SAINT-JEAN/.github/blob/master/profile/Github%20Saint%20Jean.png?raw=true">
 
 <!-- TABLE OF CONTENTS @DEVZEBS USJ-->
 <details>
