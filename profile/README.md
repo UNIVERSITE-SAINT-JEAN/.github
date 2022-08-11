@@ -142,7 +142,12 @@ You also should follow these general guidelines when committing:
   - Why is this change necessary?
   - How does it address the issue?
   - What side effects (if any) does this change may have?
-
+   
+   
+<details>
+   
+   
+   
 Example of a commit message:
 
 ```
@@ -158,7 +163,9 @@ text editors are capable of automating this.
 Issues and pull request can be referenced on the footer: #3 #12
 ```
 
-
+   </details>
+   
+   
 ### Why all these rules?
 We try to enforce these rules for the following reasons:
 
