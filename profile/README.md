@@ -136,7 +136,6 @@ Pour vous assurer qu'un commit est valide et facile à lire, vérifiez les point
 </details>
     
 You also should follow these general guidelines when committing:
- <details>
 - Use the present tense ("add feature" not "added feature");
 - Use the imperative mood ("move cursor to..." not "moves cursor to...");
 - Try to answer the following questions:
@@ -157,17 +156,17 @@ will show it as one extremely long unwrapped line. Fortunately, most
 text editors are capable of automating this.
 
 Issues and pull request can be referenced on the footer: #3 #12
-```</details>
+```
 
 
 ### Why all these rules?
-<details>We try to enforce these rules for the following reasons:
+We try to enforce these rules for the following reasons:
 
 - Communicating in a better way the nature of changes;
 - Triggering build and publish processes;
 - Automatically determining a semantic version bump (based on the types of commits);
 - Making it easier for people to contribute, by allowing them to explore a more structured commit history.
-</details>
+
 
 ## Submitting a pull request
 <details>Before submitting a pull request, please make sure the following is done:
