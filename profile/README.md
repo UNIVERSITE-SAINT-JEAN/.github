@@ -53,12 +53,14 @@
 
 
 ## Commencer
-
-Tout d'abord, nous tenons à vous remercier d'avoir pris le temps de contribuer et de faire de ce projet un meilleur projet !
+<details>
+   Tout d'abord, nous tenons à vous remercier d'avoir pris le temps de contribuer et de faire de ce projet un meilleur projet !
 
 Ici, nous avons un ensemble d'instructions et de lignes directrices pour réduire les malentendus et rendre le processus de contribution à `profile-USJ` aussi fluide que possible.
 
 Nous espérons que ce guide rendra le processus de contribution clair et répondra à toutes vos questions.
+
+</details>
 
 ### Langue
 
