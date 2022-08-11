@@ -16,7 +16,7 @@
     <a href="https://institutsaintjean.org/"><strong>Explorer le Site USJ »</strong></a>
     <br />
     <br />
-    <a href="#">A Propos </a>
+    <a href="https://institutsaintjean.org/a-propos/">A Propos </a>
     ·
     <a href="https://institutsaintjean.org/cycle-ingenieur/">Formation</a>
     ·
