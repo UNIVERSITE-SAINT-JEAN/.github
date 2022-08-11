@@ -97,11 +97,13 @@ Utiliser les outils de développement qui vous convient et faite nous un `pull-r
 [optional body]
 
 [optional footer]
-```</details>
+```
+</details>
 
 
 Pour vous assurer qu'un commit est valide et facile à lire, vérifiez les points suivants :
-<details>- L'en-tête (première ligne) est la seule partie obligatoire du message de validation ;
+<details>
+- L'en-tête (première ligne) est la seule partie obligatoire du message de validation ;
 - Le corps et le pied de page sont facultatifs mais leur utilisation est fortement encouragée ;
 - L'en-tête doit contenir :
   - Un type avec votre emoji respectif :
@@ -113,10 +115,13 @@ Pour vous assurer qu'un commit est valide et facile à lire, vérifiez les point
       - ✨ **feat** : Une nouvelle fonctionnalité ;
       - 🐛 **correction** : une correction de bug ;
       - 🤖 **test** : Un changement lié au test.
-      -    **peluche** : Un changement lié au test.</details>
+      -    **peluche** : Un changement lié au test.
+   </details>
 
   - A subject:
-  <details>- Must be lowercase;
+  <details>
+     
+    - Must be lowercase;
     - Must be limited to 50 characters or less;
     - Must omit any trailing punctuation;
     - Avoid camel case ("my awesome method" not "myAwesomeMethod").
@@ -131,7 +136,8 @@ Pour vous assurer qu'un commit est valide et facile à lire, vérifiez les point
 </details>
     
 You also should follow these general guidelines when committing:
- <details>- Use the present tense ("add feature" not "added feature");
+ <details>
+- Use the present tense ("add feature" not "added feature");
 - Use the imperative mood ("move cursor to..." not "moves cursor to...");
 - Try to answer the following questions:
   - Why is this change necessary?
