@@ -7,13 +7,13 @@
     <img src="https://github.com/UNIVERSITE-SAINT-JEAN/.github/blob/master/Ssfdsfans%20titre.png?raw=true" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">NGcodeX ORGANISATION</h3>
+  <h3 align="center">UNIVERSITE SAINT JEAN GITHUB</h3>
 
   <p align="center">
-    Bienvenue DEV j'espere que vous êtes en pleine forme! Cette organisation est créée par:<br> <a href="https://github.com/PILOTEZEBS">NGUENA »</a> et <a href="https://github.com/ngdream">NGUEWO »</a> /DEVELOPPEURS
+    Bienvenue DEV j'espere que vous êtes en pleine forme! Cette organisation est créée par:<br> <a href="https://github.com/PILOTEZEBS">NGUENA»</a> /DEVELOPPEURS
     <br/>
-    <a href="https://github.com/PILOTEZEBS"><img src="https://avatars.githubusercontent.com/u/94785948?v=4" width="64px"/></a><span> ISJ </span><a href="https://github.com/ngdream"><img src="https://avatars.githubusercontent.com/u/96875506?v=4" width="64px"/></a><br>
-    <a href="#"><strong>Explorer le Site »</strong></a>
+    <a href="https://github.com/PILOTEZEBS"><img src="https://avatars.githubusercontent.com/u/94785948?v=4" width="64px"/></a><br>
+    <a href="#"><strong>Explorer le Site USJ »</strong></a>
     <br />
     <br />
     <a href="#">Membre de NGcodeX: 2</a>
