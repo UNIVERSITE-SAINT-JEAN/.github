@@ -86,7 +86,7 @@ Try to encourage newcomers to USJ github to voice their opinions and get them in
 
 #### Environnement de développement
 
-Utiliser les outils de développement qui vous convient et fait nous un `pull-request- USJ`.
+Utiliser les outils de développement qui vous convient et faite nous un `pull-request- USJ`.
 
 ## S'engager
 <details>Un message de validation peut être composé d'un **en-tête**, d'un **corps** et d'un **pied de page**. L'en-tête est la seule partie obligatoire et se compose d'un type et d'un sujet. Le corps est utilisé pour décrire complètement le changement. Le pied de page est l'endroit où référencer tous les problèmes ou demandes d'extraction liés au commit. Cela dit, nous terminons avec un modèle comme celui-ci :
