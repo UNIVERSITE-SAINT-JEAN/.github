@@ -13,7 +13,7 @@
     Bienvenue DEV j'espere que vous êtes en pleine forme! Admin:<br> <a href="https://github.com/PILOTEZEBS">NGUENA»</a> /ETUDIANT A USJ
     <br/>
     <a href="https://github.com/PILOTEZEBS"><img src="https://avatars.githubusercontent.com/u/94785948?v=4" width="64px"/></a><br>
-    <a href="#"><strong>Explorer le Site USJ »</strong></a>
+    <a href="https://institutsaintjean.org/"><strong>Explorer le Site USJ »</strong></a>
     <br />
     <br />
     <a href="#">A Propos </a>
