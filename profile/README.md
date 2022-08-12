@@ -10,9 +10,7 @@
   <h3 align="center">UNIVERSITE SAINT JEAN GITHUB</h3>
 
   <p align="center">
-    Bienvenue DEV j'espere que vous êtes en pleine forme! Admin:<br> <a href="https://github.com/PILOTEZEBS">NGUENA ZEBS»</a> /ETUDIANT A USJ
-    <br/>
-    <a href="https://github.com/PILOTEZEBS"><img src="https://avatars.githubusercontent.com/u/94785948?v=4" width="64px"/></a><br>
+    Bienvenue DEV j'espere que vous êtes en pleine forme! <br>
     <a href="https://institutsaintjean.org/" target=_blank><strong>Explorer le Site USJ »</strong></a>
     <br />
     <br />
